@@ -3,12 +3,15 @@
 
 <svg
    width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   height="55mm"
+   viewBox="0 0 210 55"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="structSchem.svg"
+   inkscape:export-filename="structSchem.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -25,9 +28,9 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="2.1089995"
-     inkscape:cx="167.8521"
-     inkscape:cy="202.93983"
+     inkscape:zoom="1.2567858"
+     inkscape:cx="321.85278"
+     inkscape:cy="74.79397"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="-8"
@@ -36,6 +39,31 @@
      inkscape:current-layer="layer1" />
   <defs
      id="defs2">
+    <rect
+       x="185.10564"
+       y="157.81802"
+       width="28.694185"
+       height="30.944712"
+       id="rect3542" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
     <linearGradient
        id="linearGradient928"
        inkscape:swatch="solid">
@@ -60,33 +88,149 @@
        inkscape:collect="always"
        xlink:href="#linearGradient928"
        id="linearGradient930"
-       x1="20.093514"
-       y1="47.548388"
-       x2="50.874225"
-       y2="47.548388"
-       gradientUnits="userSpaceOnUse" />
+       x1="20.093513"
+       y1="47.548389"
+       x2="50.874226"
+       y2="47.548389"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3509131,0,0,0.79501494,-3.3838316,-9.6525406)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient928"
+       id="linearGradient4380"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.2390941,0,0,0.79520661,65.818472,-9.6619228)"
+       x1="20.093513"
+       y1="47.548389"
+       x2="50.874226"
+       y2="47.548389" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient928"
+       id="linearGradient5931"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.1175717,0,0,0.79542504,124.09332,-9.6723112)"
+       x1="20.093513"
+       y1="47.548389"
+       x2="50.874226"
+       y2="47.548389" />
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="5.3244081"
+       markerHeight="6.155385"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-2" />
+    </marker>
   </defs>
   <g
      inkscape:label="Слой 1"
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="fill:url(#linearGradient930);stroke-width:0.264583;stroke:#000000;fill-opacity:1;stroke-opacity:1"
+       style="fill:url(#linearGradient930);fill-opacity:1;stroke:#000000;stroke-width:0.274197;stroke-opacity:1"
        id="rect111"
-       width="30.516129"
-       height="60.322582"
-       x="20.225805"
-       y="17.387096" />
+       width="41.224636"
+       height="47.957355"
+       x="23.939476"
+       y="4.1704612" />
+    <rect
+       style="fill:url(#linearGradient5931);fill-opacity:1;stroke:#000000;stroke-width:0.249459;stroke-opacity:1"
+       id="rect111-5"
+       width="34.103958"
+       height="47.982094"
+       x="146.69711"
+       y="4.1578212" />
+    <rect
+       style="fill:url(#linearGradient4380);fill-opacity:1;stroke:#000000;stroke-width:0.262635;stroke-opacity:1"
+       id="rect111-2"
+       width="37.812355"
+       height="47.968918"
+       x="90.880142"
+       y="4.1644096" />
     <text
        xml:space="preserve"
-       style="font-size:3.175px;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:1"
-       x="26.721792"
-       y="47.547226"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583;stroke-opacity:1"
+       x="26.951443"
+       y="26.121929"
        id="text988"><tspan
          sodipodi:role="line"
          id="tspan986"
-         style="fill:#000000;fill-opacity:1;stroke-width:0.264583"
-         x="26.721792"
-         y="47.547226">Микрофоны</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="26.951443"
+         y="26.121929">Микрофонные </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="26.951443"
+         y="32.854279"
+         id="tspan1004">элементы</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="26.951443"
+         y="39.586628"
+         id="tspan1006" /></text>
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.265;stroke-dasharray:none;marker-end:url(#TriangleStart)"
+       d="m 65.213275,27.320675 h 24.75"
+       id="path2565" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.221753;stroke-dasharray:none;marker-end:url(#TriangleStart-4)"
+       d="m 128.68581,27.320681 h 17.33096"
+       id="path2565-8" />
+    <path
+       style="fill:#000000;stroke:#000000;stroke-width:0.264999;stroke-dasharray:none"
+       d="m 80.870533,24.969868 -5.5,4.346773"
+       id="path3538" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,26.720875,-18.687728)"
+       id="text3540"
+       style="white-space:pre;shape-inside:url(#rect3542);display:inline;fill:#000000;stroke:#000000;stroke-width:1.00157;stroke-dasharray:none"><tspan
+         x="185.10547"
+         y="168.73686"
+         id="tspan1093">M</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:3.175px;fill:#000000;stroke:none;stroke-width:0.264999;stroke-dasharray:none"
+       x="91.699486"
+       y="25.896683"
+       id="text4421"><tspan
+         sodipodi:role="line"
+         id="tspan4419"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="91.699486"
+         y="25.896683">Блок обработки</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="91.699486"
+         y="32.511269"
+         id="tspan4423">данных</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.264999;stroke-dasharray:none"
+       x="147.43938"
+       y="25.896469"
+       id="text4421-4"><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="147.43938"
+         y="25.896469"
+         id="tspan4423-0">Блок передачи </tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.29167px;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke:none;stroke-width:0.265"
+         x="147.43938"
+         y="32.511055"
+         id="tspan6095">данных</tspan></text>
   </g>
 </svg>
